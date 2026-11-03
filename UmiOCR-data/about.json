@@ -3,18 +3,18 @@
     "version": {
         "major": 2,
         "minor": 1,
-        "patch": 5,
-        "prerelease": "",
-        "prereleaseNumber": 0,
+        "patch": 6,
+        "prerelease": "translation",
+        "prereleaseNumber": 1,
         "string": "自动生成"
     },
     "fullname": "自动生成",
     "app": "自动生成, home, path, platform, python, cpu, ram",
     "url": {
-        "home": "https://github.com/hiroi-sora/Umi-OCR",
+        "home": "https://github.com/tssj520/Umi-OCR",
         "plugins": "https://github.com/hiroi-sora/Umi-OCR_plugins",
-        "issue": "https://github.com/hiroi-sora/Umi-OCR/issues",
-        "newIssue": "https://github.com/hiroi-sora/Umi-OCR/issues/new/choose"
+        "issue": "https://github.com/tssj520/Umi-OCR/issues",
+        "newIssue": "https://github.com/tssj520/Umi-OCR/issues/new/choose"
     },
     "license": {
         "type": "MIT",
@@ -24,6 +24,10 @@
         {
             "name": "hiroi-sora",
             "url": "https://github.com/hiroi-sora"
+        },
+        {
+            "name": "tssj520 (translation enhancement)",
+            "url": "https://github.com/tssj520"
         }
     ],
     "localization": [

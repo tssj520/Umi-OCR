@@ -20,6 +20,19 @@ git clone --single-branch --branch [分支名] https://github.com/hiroi-sora/Umi
 
 # 更新日志 CHANGE LOG
 
+### v2.1.6-translation.1 `2026.11.3`（社区翻译增强版）
+
+基于上游 v2.1.5，原作者：hiroi-sora；翻译增强维护者：tssj520。
+
+- 新增：截图 OCR 工具栏“文字”左侧的翻译开关，默认关闭。
+- 新增：源语言、自动检测、目标语言及免费翻译服务选择，默认英语译为简体中文；配置重启记忆。
+- 新增：译文页、原文对照、复制译文与重新翻译，保留 OCR 原始记录。
+- 新增：Google 免费网页端点与 MyMemory 适配，无需新增第三方 Python 包。
+- 优化：后台翻译、取消过期结果、10 分钟有界内存缓存及长文本分段。
+- 修复：Windows Python 3.8 系统代理检查的反向 DNS 等待，本机示例短句从约 10 秒降至约 0.85 秒。
+- 发布：Windows x64 RapidOCR 完整便携包、v2.1.5 增量更新包及 SHA-256 校验文件。
+- 验证：23 项自动测试；Google / MyMemory 在线请求和 Windows OCR → 翻译界面流程。
+
 ### v2.1.5 `2025.3.26`
 
 分支名：`main`

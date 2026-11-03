@@ -1,3 +1,11 @@
+> **翻译增强版 v2.1.6-translation.1（社区预发布版）**
+>
+> 基于 [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) v2.1.5，新增截图识别后翻译、语言选择、配置记忆与重复文本缓存。翻译默认关闭；OCR 仍离线运行，只有开启翻译才将文字发送至所选在线服务。
+>
+> **[下载 Windows x64 完整便携版或 v2.1.5 增量更新包](https://github.com/tssj520/Umi-OCR/releases/tag/v2.1.6-translation.1)** · [翻译使用说明](docs/README_translation.md) · [更新与打包说明](docs/README_translation_release.md)
+>
+> 原项目及版权归原作者 hiroi-sora 等贡献者所有。此仓库由 tssj520 维护翻译增强功能，不代表上游官方发布。下方保留上游项目介绍及下载入口，原版下载不包含本分支新增的翻译功能。
+
 <p align="left">
     <span>
         <b>中文</b>
